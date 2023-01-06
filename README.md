@@ -1,6 +1,8 @@
 # Ad-CTR-using-RL
 Ad recommendation using Reinforced Learning
+
 Aim- To serve the Ad to the user which will optimise for CTR (clicks/impressions)
+
 The approach used-
   ● Start with a belief
   ● Observe the feedback
